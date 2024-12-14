@@ -23,11 +23,11 @@ instance/
 Thumbs.db
 
 # Model files and other sensitive data
-decision_tree_model.pkl
-label_encoder.pkl
+# decision_tree_model.pkl
+# label_encoder.pkl
 
 # CSV files (optional)
-music.csv
+# music.csv
 
 # Logs and temporary files
 *.log
