@@ -1,0 +1,44 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+
+# Flask configuration files
+instance/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS generated files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Model files and other sensitive data
+decision_tree_model.pkl
+label_encoder.pkl
+
+# CSV files (optional)
+music.csv
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variable files
+.env
+
+# Test-related files
+*.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
